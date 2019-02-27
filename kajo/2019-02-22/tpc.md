@@ -49,12 +49,38 @@ Qb3+
 
 # 4.4
 
+Final answer:
+
 e5
 
 if ...Nxe5 Qxe5 Bxb5 Qxb5 (white wins a piece)
 if ...Nxe5 Qxe5 Qxe5 Bxd7+ Rxd7 Nxe5 (white wins a piece)
 
-The pawn is defended twice on e5, and takes the queen off a good diagonal.
+The pawn is defended twice on e5, and takes the black queen off a good diagonal.
 White is now free to develop his b1 knight (which was defending the queen
 before). White can now focus an attack on f7 (Bc4, Ng5, Qb3), or on the
-kingside (Na3, with qu)
+kingside (Na3, Rc1, focusing on the c7 pawn)
+
+# 4.5
+
+(It's black to play, right?)
+
+First thoughts:
+- A kight on c2 would do a triple, fork. White can't castle either side, and c2
+    is defended by the black queen, so preventing this is hard.
+
+- Maybe Bb4 ? with the idea of cxb4 Nxb4. It's impossible to stop Nc2. The next best thing is
+    Rc1 Nc2+ Rxc1 Qxc1, which threatens both Qd1# and Qb1 Ke2 Qd1#
+
+- Qc2 right away seems to be premature, because of Rc1. Black wins the a2 pawn,
+    but meh...
+
+
+Final answer:
+
+Not sure, really
+
+
+# 4.6
+
+
