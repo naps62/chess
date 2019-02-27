@@ -83,4 +83,51 @@ Not sure, really
 
 # 4.6
 
+# 4.7
 
+Final answer:
+
+e5
+
+if ...dxe5 Nxe5 (threatening Nxg5 or Nxd7 with discoveries on the queen)
+
+if Nh5 exd5 (with tempo on the queen). exd5 opens the king file for a rook.
+Queen retreating allows for dxe7. If Nxf4, Rae7 secures the e7 pawn, ties the
+king to an open center file, and probably makes the sacrifice completely worth
+it
+
+# 4.8
+
+First thoughts:
+
+- Nd5 threatens Nc7 (fork) Qxc7 Bxf7+ Kxf7 Rxc7. So black has to reply with
+    Bd6, Bd8, or O-O
+- Nd5 also defends e3 and allows f4 later
+- Bxf7 at some point looks tasty
+
+Final answer:
+
+> 1.Nd5
+
+> if 1...Bd6 2.f4 (attack the queen and prevent mate on h2)
+>    - 2...Qh5 3.Qb4 O-O
+>        black's pawn structure)
+>   - 2...Qe5 3.Nxf6+ (fork on the queen)
+>   - anything else looses the queen directly
+
+> if ...Bd8 f4
+
+# 4.9
+
+Final answer:
+
+1.Qf4
+
+1...O-O-O Nxf7 wins an exchange
+1...f6 Rxd7 Qxd7
+
+# 4.10
+
+# 4.11
+
+# 4.12
