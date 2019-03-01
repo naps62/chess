@@ -14,11 +14,12 @@ d5 exd5 Bxd5 Bxh7+ to weaken the black king (but sacrifing a center pawn)
 
 ## Final answer:
 
-Ba6 Ra8 (Rc7 Bf4)
-d5 exd5
-exd5 Bxd5
-Bb6 O-O
-Rd1
+1.Ba6 Ra8 (Rc7 Bf4 e5 Nxe5 Nxe5 Bxe6 and white has a strong center and attacks 
+g7)
+2.d5 exd5
+3.exd5 Bxd5
+4.Bb6 O-O
+5.Rd1
 
 undefended bishop. If bishop moves away, the knight falls. Bc6 doesn't
 work because the rook was kicked off the c file. If black didn't castle, to
@@ -27,11 +28,11 @@ keep the king defending the rook
 
 # 4.2
 
-e6 (threatens Qxf7#, so white can't ignore)
-...fxe6 (Bxe6 Nxe6 fxe6)
-Qh5+ g6
-Qxg5 Qxg5
-Bxg5
+1.e6 (threatens Qxf7#, so white can't ignore)
+1...fxe6 (Bxe6 Nxe6 fxe6 Qh5+)
+2.Qh5+ g6
+3.Qxg5 Qxg5
+4.Bxg5
 
 White is now up a piece
 
@@ -41,20 +42,19 @@ First thoughts:
 - Qb3 threatens f6, so white develops the queen with tempo
 
 Final answer:
-Bxf7 Kxf7
-Qb3+
-  - Ke8 Ng5 Rf8 Ne7 (queen is out)
-  - Kf8 Ng5 Qe8 (only move, to prevent Ne6 double threat) Ne6+ Kg8 Nxc7+ (queen
+1.Bxf7 Kxf7
+2.Qb3+
+  - 2...Ke8 3.Ng5 Rf8 4.Ne7 (queen is out)
+  - 2...Kf8 3.Ng5 Qe8 (only move, to prevent Ne6 double threat) 4.Ne6+ Kg8 5.Nxc7+ (queen
       is out again)
 
 # 4.4
 
 Final answer:
 
-e5
-
-if ...Nxe5 Qxe5 Bxb5 Qxb5 (white wins a piece)
-if ...Nxe5 Qxe5 Qxe5 Bxd7+ Rxd7 Nxe5 (white wins a piece)
+1.e5
+  - 1...Nxe5 2.Qxe5 Bxb5 3.Qxb5 (white wins a piece)
+  - 1...Nxe5 2.Qxe5 Qxe5 3.Bxd7+ Rxd7 4.Nxe5 (white wins a piece)
 
 The pawn is defended twice on e5, and takes the black queen off a good diagonal.
 White is now free to develop his b1 knight (which was defending the queen
@@ -66,7 +66,7 @@ kingside (Na3, Rc1, focusing on the c7 pawn)
 (It's black to play, right?)
 
 First thoughts:
-- A kight on c2 would do a triple, fork. White can't castle either side, and c2
+- A kight on c2 would do a triple fork. White can't castle either side, and c2
     is defended by the black queen, so preventing this is hard.
 
 - Maybe Bb4 ? with the idea of cxb4 Nxb4. It's impossible to stop Nc2. The next best thing is
@@ -75,21 +75,39 @@ First thoughts:
 - Qc2 right away seems to be premature, because of Rc1. Black wins the a2 pawn,
     but meh...
 
+Final answer:
+
+1.O-O
+
+Black's king is still a bit exposed, but white is blocked from castling and has
+a ruined pawn structure. His pieces seem to be a bit weird, but with the queen
+pointing at the king, it feels safer to castle, and be able to double to rooks
+on the open d-file
+
+# 4.6
+
+First thoughts:
+
+- Annoying bishop on e4
+- Knight on f3 has no good squares to go to, which makes it hard to play f3 and
+    kick the bishop
+- Black king is stuck in the middle
+- Queen is tied to defending e6
 
 Final answer:
 
-Not sure, really
-
-
-# 4.6
+1.Ng1
+  - 1...Bxg2 2.Bg4 Qxg4 3.Qxe6#
+  - 1...Bf5 (to prevent Bg4) 2.e4 Bxe4 Bg4
+  - 1...Qe5 2.f4
 
 # 4.7
 
 Final answer:
 
-e5
-
-if ...dxe5 Nxe5 (threatening Nxg5 or Nxd7 with discoveries on the queen)
+1.e5
+  - 1...dxe5 Nxe5 (threatening Nxg5 or Nxd7 with discoveries on the queen)
+  - 1...Nh5 exd5 exd5 Rae1+ Kf8
 
 if Nh5 exd5 (with tempo on the queen). exd5 opens the king file for a rook.
 Queen retreating allows for dxe7. If Nxf4, Rae7 secures the e7 pawn, ties the
@@ -101,33 +119,44 @@ it
 First thoughts:
 
 - Nd5 threatens Nc7 (fork) Qxc7 Bxf7+ Kxf7 Rxc7. So black has to reply with
-    Bd6, Bd8, or O-O
+    Bd6, Bd8, or O-O, or even Kd8 or Kf8
 - Nd5 also defends e3 and allows f4 later
 - Bxf7 at some point looks tasty
 
 Final answer:
 
-> 1.Nd5
-
-> if 1...Bd6 2.f4 (attack the queen and prevent mate on h2)
->    - 2...Qh5 3.Qb4 O-O
->        black's pawn structure)
->   - 2...Qe5 3.Nxf6+ (fork on the queen)
->   - anything else looses the queen directly
-
-> if ...Bd8 f4
+1.Nd5
+  - 1...Bd6 2.f4 Qh5 Qxh5 gxh5 Nf5 (bishop is trapped)
+  - 1...Bd8 2.f4 Qh5 Qxh5 gxh5 Nf5 (threatens Ne8+ Kf8 Nxh5 winning a pawn, and
 
 # 4.9
 
+First thoughts:
+
+- Black can't castle because the f7 pawn falls
+- Nxf7 could be interesting, but I don't immediately see a follow-up
+
 Final answer:
 
-1.Qf4
-
-1...O-O-O Nxf7 wins an exchange
-1...f6 Rxd7 Qxd7
+1.Rd2
+  - 1...Qxg2 2.Rhd1 Rd8 3.Qb5 (knight falls)
+  - 1...Qxg2 2.Rhd1 O-O-O Nxf7 (wins material)
+  - 1...Rd8 2.Rhd1 (no way to prevent Qd3, which ends up winning the knight)
+  - 1...Ne5 2.Qf4 (attacks both the knight and f7)
 
 # 4.10
 
 # 4.11
 
+Final answer:
+
+1.O-O (bring a rook to an open file. Bxf3 can now help double the rooks)
+
+I couldnt' find a more immediate plan. White has 3 pieces ready for attack
+(bishop, queen, and knight), and gets two rooks on open files. Black only two
+pieces defending (queen and rook). White also has an open king in the middle
+(Qh4+, or f6 to open the file could end up leaving the king exposed)
+
 # 4.12
+
+
