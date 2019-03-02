@@ -146,6 +146,15 @@ Final answer:
 
 # 4.10
 
+Final answer:
+
+1.d3
+
+Open the bishop, which is the last minor piece to develop, and consider castling
+queen side. Black is underdeveloped, and his queen is undefended. Covering that
+diagonal with the bishop can help restrict it later on. Be3, Qd2, O-O-O and
+white is safe, doubled on the d file, and ready to push d4.
+
 # 4.11
 
 Final answer:
@@ -159,4 +168,12 @@ pieces defending (queen and rook). White also has an open king in the middle
 
 # 4.12
 
+Final answer:
 
+1...Re8
+
+- 2.Qf3 Qh4 3.g3 Qh3 (black can now attack on the light squares, which are
+    weakened on the kingside, and white has no light-squared bishop)
+
+2.Qd3, 2.Qc2 are also possible, but they seem to allow the same line
+2.Qd5 doesn't look safe for white
