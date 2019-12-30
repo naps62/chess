@@ -19,11 +19,11 @@
 
 # 457
 
-# TODO
+1. Nh6+ (??)
 
 # 458
 
-Bxf7
+1. Bxf7
 
 # 459
 
@@ -49,7 +49,7 @@ TODO
 
 # 464
 
-TODO
+1. Rf1 (??)
 
 # 465
 
@@ -57,7 +57,11 @@ TODO
 
 # 466
 
-TODO
+1. Qf6+ and Rxc3
+
+or
+
+1. Ne4+
 
 # 467
 
@@ -65,5 +69,5 @@ TODO
 
 # 468
 
-TODO
-
+1. Bb4 Bd2 Rxd2 Kxd2 Rd8+ Ke1 Qe3+ Kf1 Rd4
+1. Bb4 hxg4 Nxg4 (followed by Qf2#)
