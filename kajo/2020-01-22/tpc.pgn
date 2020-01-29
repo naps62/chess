@@ -1,0 +1,132 @@
+﻿[Event "Ybbs"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Zwettler, M."]
+[Black "Loidl, F."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "2B5/8/2K5/5p2/4k1p1/6P1/5P2/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "2002.??.??"]
+[SourceTitle "Mast. Endgame Strategy"]
+[Source "Everyman Chess"]
+[SourceDate "2013.07.01"]
+
+{. Position 1 (White to play) Find the best continuation. (3-4 moves) . (press
+F11 for the solution)}  *
+
+[Event "German League"]
+[Site "?"]
+[Date "2011.??.??"]
+[Round "?"]
+[White "Gashimov, V."]
+[Black "Postny, E."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "8/8/1k6/8/1PKR2r1/8/1P6/8 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "2011.??.??"]
+[SourceTitle "Mast. Endgame Strategy"]
+[Source "Everyman Chess"]
+[SourceDate "2013.07.01"]
+
+{. Position 2 (Black to play) Was Black right in playing 1...Rxd4+ here? . 
+(press F11 for the solution)}  *
+
+[Event "Sofia"]
+[Site "?"]
+[Date "2009.??.??"]
+[Round "?"]
+[White "Wang Yue"]
+[Black "Dominguez Perez, L."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "8/8/8/4R3/1PK3p1/8/4pk2/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "2009.??.??"]
+[SourceTitle "Mast. Endgame Strategy"]
+[Source "Everyman Chess"]
+[SourceDate "2013.07.01"]
+
+{. Position 3 (White to play) Find the best continuation. (3-4 moves) . (press
+F11 for the solution)}  *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "position 4"]
+[Black "?"]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "8/1K6/8/3p4/2k5/P7/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceTitle "Mast. Endgame Strategy"]
+[Source "Everyman Chess"]
+[SourceDate "2013.07.01"]
+
+{. Position 4 (White to play) Find the best continuation. (2-3 moves) . (press
+F11 for the solution)}  *
+
+[Event "New York Open"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Damljanovic, B."]
+[Black "Byrne, R."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "8/1K6/8/1R4pk/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "1987.??.??"]
+[SourceTitle "Mast. Endgame Strategy"]
+[Source "Everyman Chess"]
+[SourceDate "2013.07.01"]
+
+{. Position 5 (Black to play) Find the best continuation. (3-4 moves) . (press
+F11 for the solution)}  *
+
+[Event "USSR Army Championship, Khabarovsk"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Graf, A."]
+[Black "Semeniuk, A."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "4k3/1R6/5K1p/p4P2/6P1/8/4r3/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "1990.??.??"]
+[SourceTitle "Mast. Endgame Strategy"]
+[Source "Everyman Chess"]
+[SourceDate "2013.07.01"]
+
+{. Position 6 (White to play) Find the best continuation. (3-4 moves) . (press
+F11 for the solution)}  *
+
+[Event "Austrian Championship, Zwettl"]
+[Site "?"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "Titz, H."]
+[Black "Zsifkovits, R."]
+[Result "*"]
+[Annotator "Johan Hellsten"]
+[SetUp "1"]
+[FEN "8/8/8/4K2p/1R3p2/6k1/8/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "2012.??.??"]
+[SourceTitle "Mast. Endgame Strategy"]
+[Source "Everyman Chess"]
+[SourceDate "2013.07.01"]
+
+{. Position 7 (White to play) Find the best continuation. (5-6 moves) . (press
+F11 for the solution)}  *
+
