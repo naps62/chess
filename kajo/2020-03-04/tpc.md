@@ -1,4 +1,6 @@
-# Thoughts on [this game](http://www.viewchess.com/cbreader/2020/3/1/Game1347314750.html)
+# Thoughts on [these games](http://www.viewchess.com/cbreader/2020/3/1/Game1347314750.html)
+
+## 1
 
 candidate moves:
 - g5
@@ -22,3 +24,6 @@ Is black threatening anything?
 - Bxb2 can be ignored
 - Rxc2 doesn't work
 - Qc7 is slow and can be defended with Rd2 (or it also probably doesn't work either, after Bxc2 and Ka1)
+
+
+
